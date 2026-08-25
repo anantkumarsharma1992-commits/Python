@@ -1,0 +1,37 @@
+INFO - Application started
+INFO - User login successful
+WARNING - Memory usage high
+ERROR - Database connection failed
+INFO - Retry successful
+ERROR - Payment service unavailable
+INFO - User login successful
+WARNING - Disk space running low
+INFO - Cache refreshed
+ERROR - Null pointer exception in OrderService
+INFO - Scheduled job started
+WARNING - API response time degraded
+INFO - User logout successful
+ERROR - Failed to send email notification
+INFO - Configuration reloaded
+WARNING - Deprecated API endpoint used
+INFO - Backup completed successfully
+ERROR - Database connection failed
+INFO - User login successful
+WARNING - Memory usage high
+INFO - New user registered
+ERROR - Timeout while calling external service
+INFO - Health check passed
+WARNING - CPU usage above 80%
+INFO - Session expired for user
+ERROR - Invalid authentication token
+INFO - Application started
+WARNING - Queue length exceeding threshold
+INFO - Report generated successfully
+ERROR - File not found: config.yaml
+INFO - User password changed
+WARNING - SSL certificate expiring soon
+INFO - Data sync completed
+ERROR - Payment service unavailable
+INFO - User login successful
+WARNING - Rate limit approaching
+INFO - Application shutting down

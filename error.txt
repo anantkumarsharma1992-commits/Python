@@ -1,0 +1,18 @@
+ERROR - Database connection failed
+
+ERROR - Payment service unavailable
+
+ERROR - Null pointer exception in OrderService
+
+ERROR - Failed to send email notification
+
+ERROR - Database connection failed
+
+ERROR - Timeout while calling external service
+
+ERROR - Invalid authentication token
+
+ERROR - File not found: config.yaml
+
+ERROR - Payment service unavailable
+
