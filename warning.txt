@@ -1,0 +1,18 @@
+WARNING - Memory usage high
+
+WARNING - Disk space running low
+
+WARNING - API response time degraded
+
+WARNING - Deprecated API endpoint used
+
+WARNING - Memory usage high
+
+WARNING - CPU usage above 80%
+
+WARNING - Queue length exceeding threshold
+
+WARNING - SSL certificate expiring soon
+
+WARNING - Rate limit approaching
+

@@ -1,0 +1,38 @@
+INFO - Application started
+
+INFO - User login successful
+
+INFO - Retry successful
+
+INFO - User login successful
+
+INFO - Cache refreshed
+
+INFO - Scheduled job started
+
+INFO - User logout successful
+
+INFO - Configuration reloaded
+
+INFO - Backup completed successfully
+
+INFO - User login successful
+
+INFO - New user registered
+
+INFO - Health check passed
+
+INFO - Session expired for user
+
+INFO - Application started
+
+INFO - Report generated successfully
+
+INFO - User password changed
+
+INFO - Data sync completed
+
+INFO - User login successful
+
+INFO - Application shutting down
+
