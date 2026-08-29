@@ -1,0 +1,13 @@
+ Line 1: Welcome to my notes file,
+Line 2: Python file handling is easy.
+Line 3: open() lets us access a file.
+Line 4: write() adds text to a file.
+Line 5: read() lets us view file content.
+Line 6: close() releases the file resource.
+Line 7: 'w' mode overwrites existing content.
+Line 8: 'a' mode appends without deleting data.
+Line 9: 'r' mode is used only for reading.
+Line 10: This is the last line of the first write.line 11: This is me appending in the existing document
+
+line 12: This is me appending in the existing document
+line 11: This is me appending in the existing document
