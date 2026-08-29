@@ -1,0 +1,36 @@
+,order_id,product,quantity,price,city,revenue
+0,101,Laptop,1,65000.0,Bangalore,65000.0
+1,102,Mouse,2,1200.0,Delhi,2400.0
+2,103,Keyboard,1,2200.0,Mumbai,2200.0
+3,104,Monitor,2,15000.0,Pune,30000.0
+4,105,Headphones,3,3500.0,Hyderabad,10500.0
+5,106,Webcam,1,4500.0,Chennai,4500.0
+6,107,Printer,1,12000.0,Kolkata,12000.0
+7,108,Tablet,2,25000.0,Ahmedabad,50000.0
+8,109,Smartphone,1,55000.0,Noida,55000.0
+9,110,Charger,4,900.0,Gurgaon,3600.0
+10,111,Router,1,3200.0,Bangalore,3200.0
+11,112,External HDD,2,4800.0,Delhi,9600.0
+12,113,Pen Drive,5,600.0,Mumbai,3000.0
+13,114,Laptop Bag,1,1800.0,Pune,1800.0
+14,115,Speaker,2,2500.0,Hyderabad,5000.0
+15,116,Smartwatch,1,8000.0,Chennai,8000.0
+16,117,Mouse Pad,6,250.0,Kolkata,1500.0
+17,118,Graphics Card,1,45000.0,Ahmedabad,45000.0
+18,119,RAM,3,3800.0,Noida,11400.0
+19,120,SSD,2,5200.0,Gurgaon,10400.0
+20,121,Laptop,1,58000.0,Bangalore,58000.0
+21,122,Mouse,3,1200.0,Delhi,3600.0
+22,123,Keyboard,2,2200.0,Mumbai,4400.0
+23,124,Monitor,1,14000.0,Pune,14000.0
+24,125,Headphones,1,3500.0,Hyderabad,3500.0
+25,126,Webcam,2,4500.0,Chennai,9000.0
+26,127,Printer,1,11500.0,Kolkata,11500.0
+27,128,Tablet,1,24000.0,Ahmedabad,24000.0
+28,129,Smartphone,2,52000.0,Noida,104000.0
+29,130,Charger,3,900.0,Gurgaon,2700.0
+30,131,Router,2,3200.0,Bangalore,6400.0
+31,132,External HDD,1,4800.0,Delhi,4800.0
+32,133,Pen Drive,10,600.0,Mumbai,6000.0
+33,134,Laptop Bag,2,1800.0,Pune,3600.0
+34,135,Speaker,1,2500.0,Hyderabad,2500.0
