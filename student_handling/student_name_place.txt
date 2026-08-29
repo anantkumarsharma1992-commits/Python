@@ -1,0 +1,10 @@
+Sudhanshu : Python
+Rahul : Data Science
+Priya : Java
+Amit : Web Development
+Sneha : Machine Learning
+Karan : DevOps
+Neha : SQL
+Vikram : Django
+Anjali : Data Analysis
+Rohan : Cloud Computing
