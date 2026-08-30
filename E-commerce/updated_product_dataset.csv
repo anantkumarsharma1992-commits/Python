@@ -1,0 +1,57 @@
+,product_id,product_name,category,brand,price,rating,stock,discount,discount_amount,final_price
+0,P0001,Dell ZenBook,Laptop,Dell,44212.82,3.0,304,0,0.0,44212.82
+1,P0002,Dell Wireless Slim,Keyboard,Dell,8734.23,4.3,214,10,873.4229999999999,7860.807
+2,P0003,Acer Gaming Edge,Laptop,Acer,131927.97,4.4,117,0,0.0,131927.97
+3,P0004,Realme V Series,Mobile,Realme,35872.43,2.8,455,10,3587.243,32285.187
+4,P0005,Amazon Fire Tablet,Tablet,Amazon,29095.53,2.9,490,20,5819.106,23276.424
+5,P0006,Logitech TypeMaster,Keyboard,Logitech,10572.31,3.2,256,5,528.6155,10043.6945
+6,P0007,Acer Business View,Monitor,Acer,20863.62,3.4,107,15,3129.543,17734.076999999997
+7,P0008,Boat ClearTone,Headphones,Boat,1761.75,2.7,336,20,352.35,1409.4
+8,P0009,Asus OLED Vision,Monitor,Asus,31695.37,3.6,264,30,9508.611,22186.759
+9,P0010,Bose SportFit,Headphones,Bose,12245.95,3.5,48,0,0.0,12245.95
+10,P0011,Acer OLED Vision,Monitor,Acer,44826.06,3.9,367,30,13447.818,31378.242
+11,P0012,Asus IPS Panel,Monitor,Asus,17571.25,4.7,388,5,878.5625,16692.6875
+12,P0013,Apple Fire Tablet,Tablet,Apple,46511.87,3.9,51,0,0.0,46511.87
+13,P0014,Samsung MatePad,Tablet,Samsung,55275.67,3.8,398,0,0.0,55275.67
+14,P0015,Amazon Tab S Series,Tablet,Amazon,48178.19,4.0,87,10,4817.819,43360.371
+15,P0016,Realme Nord Lite,Mobile,Realme,99762.56,4.9,272,5,4988.128,94774.432
+16,P0017,Bose SportFit,Headphones,Bose,10505.18,2.6,194,0,0.0,10505.18
+17,P0018,Amazon Basics Power Bank,Accessories,Amazon Basics,2596.45,2.8,185,15,389.46750000000003,2206.9824999999996
+18,P0019,Bose StudioMax,Headphones,Bose,12301.83,3.9,135,25,3075.4575,9226.3725
+19,P0020,Razer Compact 60%,Keyboard,Razer,9185.55,4.2,365,15,1377.8325,7807.717499999999
+20,P0021,Sony NoiseCancel Pro,Headphones,Sony,3067.42,3.1,308,0,0.0,3067.42
+21,P0022,Realme Galaxy Series,Mobile,Realme,84436.94,4.7,44,25,21109.235,63327.705
+22,P0023,BenQ UltraWide 34,Monitor,BenQ,40079.71,3.2,327,10,4007.971,36071.739
+23,P0024,Amazon Basics Wireless Mouse,Accessories,Amazon Basics,2677.66,2.8,178,0,0.0,2677.66
+24,P0025,ASUS Ergo Comfort,Keyboard,ASUS,4574.42,3.5,442,0,0.0,4574.42
+25,P0026,Samsung Air Tab,Tablet,Samsung,26395.89,4.9,296,0,0.0,26395.89
+26,P0027,Belkin SD Card 128GB,Accessories,Belkin,1051.92,4.2,305,0,0.0,1051.92
+27,P0028,Asus UltraLight,Laptop,Asus,103527.17,3.7,128,0,0.0,103527.17
+28,P0029,Realme Nord Lite,Mobile,Realme,33566.05,2.8,478,30,10069.815,23496.235
+29,P0030,Corsair Wireless Slim,Keyboard,Corsair,8201.85,3.3,135,25,2050.4625,6151.387500000001
+30,P0031,Realme Redmi Pro,Mobile,Realme,22600.69,4.7,384,15,3390.1034999999997,19210.586499999998
+31,P0032,Belkin Cable Organizer,Accessories,Belkin,2083.44,5.0,327,10,208.34400000000002,1875.096
+32,P0033,LG OLED Vision,Monitor,LG,31529.03,3.6,475,0,0.0,31529.03
+33,P0034,Razer RGB Gaming,Keyboard,Razer,2105.75,4.4,275,15,315.8625,1789.8875
+34,P0035,Boat SoundWave,Headphones,Boat,17850.64,2.6,116,15,2677.596,15173.044
+35,P0036,Samsung V Series,Mobile,Samsung,103356.53,2.9,248,30,31006.959,72349.571
+36,P0037,Huawei Pad Lite,Tablet,Huawei,14774.68,3.0,274,30,4432.404,10342.276
+37,P0038,MSI Pro Book,Laptop,MSI,118919.16,3.8,498,25,29729.79,89189.37
+38,P0039,Bose StudioMax,Headphones,Bose,12881.4,4.7,329,30,3864.42,9016.98
+39,P0040,Samsung iPhone Series,Mobile,Samsung,42249.61,4.1,453,20,8449.922,33799.688
+40,P0041,Anker USB-C Hub,Accessories,Anker,2085.66,3.4,176,15,312.849,1772.811
+41,P0042,Ugreen Power Bank,Accessories,Ugreen,568.68,4.0,257,5,28.433999999999997,540.246
+42,P0043,Dell Pro Book,Laptop,Dell,133858.07,2.7,121,15,20078.7105,113779.3595
+43,P0044,Asus Inspiron,Laptop,Asus,134055.15,3.9,25,0,0.0,134055.15
+44,P0045,Acer Pro Book,Laptop,Acer,37876.24,3.2,114,5,1893.812,35982.428
+45,P0046,Apple Air Tab,Tablet,Apple,21931.23,3.3,301,10,2193.123,19738.107
+46,P0047,Belkin Cable Organizer,Accessories,Belkin,1162.39,3.7,447,0,0.0,1162.39
+47,P0048,Acer OLED Vision,Monitor,Acer,44398.28,2.7,206,20,8879.656,35518.623999999996
+48,P0049,Samsung Surface Go,Tablet,Samsung,38597.98,4.4,440,0,0.0,38597.98
+49,P0050,HP RGB Gaming,Keyboard,HP,11154.96,4.5,146,25,2788.7400000000002,8366.22
+50,P0051,Amazon Basics Wireless Mouse,Accessories,Amazon Basics,333.8,4.3,30,10,33.38,300.42
+51,P0052,HP Pro Book,Laptop,HP,62700.23,3.9,40,0,0.0,62700.23
+52,P0053,Logitech SilentTouch,Keyboard,Logitech,3177.1,2.8,142,30,953.13,2223.97
+53,P0054,Acer IPS Panel,Monitor,Acer,23280.49,4.0,185,10,2328.0490000000004,20952.441000000003
+54,P0055,Skullcandy StudioMax,Headphones,Skullcandy,9032.25,3.2,80,30,2709.675,6322.575
+55,P0056,Vivo Note X,Mobile,Vivo,54128.13,2.7,467,20,10825.625999999998,43302.504
